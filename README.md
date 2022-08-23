@@ -1,5 +1,5 @@
 # TIL
-> Today I Learned(TIL) Wiki
+> Today I Learned
 
 ## Data Structure & Algorithm
 
