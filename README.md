@@ -1,12 +1,18 @@
 # TIL
 > Today I Learned
 
-## Data Structure & Algorithm
+## Java
+
+## Spring
+
+## Data Structure
+- [Array](DataStructure/Array.md)
+
+## Algorithm
+
 
 ## Operating System
 
 ## Network
 
 ## Database
-
-## Java
