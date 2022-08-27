@@ -7,9 +7,7 @@
 
 ## Data Structure
 - [Array](DataStructure/Array.md)
-
-## Algorithm
-
+- [List](DataStructure/Lists.md)
 
 ## Operating System
 
