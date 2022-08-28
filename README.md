@@ -1,13 +1,16 @@
 # TIL
 > Today I Learned
 
+## Books
+
+
 ## Java
 
 ## Spring
 
 ## Data Structure
 - [Array](DataStructure/Array.md)
-- [List](DataStructure/Lists.md)
+- [List](DataStructure/List.md)
 
 ## Operating System
 
