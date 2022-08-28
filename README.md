@@ -9,7 +9,7 @@
 
 ## Data Structure
 - [Array](DataStructure/Array.md)
-- [List](DataStructure/List.md)
+- [Lists](DataStructure/Lists.md)
 
 ## Operating System
 
