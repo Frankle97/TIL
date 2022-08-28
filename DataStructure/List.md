@@ -1,9 +1,13 @@
 # List
 
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/List.html
+
 - 직접 배열을 다룰 필요가 없다.
 - Interface 특성상 경우마다의 구현체로 Swap 가능하다.
 
 ## ArrayList
+
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html
 
 - 크기 리사이징 가능한 배열이자 List 인터페이스의 구현체이다.
 - 용량과 크기가 정해져있다. (기본 용량: 10)
@@ -17,6 +21,5 @@
 | contains() | O(n)         | indexOf() 기반으로 되어 동일한 시간복잡도를 갖는다.                |
 
 ## Reference
+
 - https://www.baeldung.com/java-collections-complexity
-- https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/List.html
-- https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html
